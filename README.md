@@ -2,7 +2,7 @@
 
 
 ##Install VScode , Git for windows,   Node.js version 16.20.1
-You have 'yarn' installed
+You have also 'yarn' installed
 
 
 
