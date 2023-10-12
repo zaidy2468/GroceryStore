@@ -23,7 +23,7 @@ const Header = ({ user }) => {
               src="/static/logo.svg"
               style={{ marginRight: '1em' }}
             />*/}
-            ReactReserve
+            Grocery Store
           </Menu.Item>
         </Link>
         <Menu.Menu position="right">

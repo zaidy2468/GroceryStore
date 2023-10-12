@@ -1,1 +1,1 @@
-## ReactReserve - a fullstack ecommerce web app built with Next.js and MongoDB (based on Reed Barger's course)
+## Grocery Store - a fullstack grocery store web app built with Next.js and MongoDB
